@@ -34,6 +34,8 @@ IDE|Pycharm and Colab|
 数据集下载使用百度云盘，连接如下：<br>
   链接：https://pan.baidu.com/s/1u2HN6tfygcQvzuEK5XBa2A <br> 
   提取码：dxq6 <br>
+Google drive link:https://drive.google.com/drive/folders/1QFadJOmbOLWMjLrcebZQR_w2fBX7x0Vm?usp=share_link
+UEA and UCR dataset:http://www.timeseriesclassification.com/index.php
 
 ---
 
